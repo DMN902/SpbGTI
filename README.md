@@ -1,3 +1,3 @@
 # SpbGTI
 ## Учебные дисциплины:
-• [Программирование](../Files/Programming.md)
+• [Программирование](https://github.com/DayMan902/SpbGTI/blob/main/Files/Programming.md)
