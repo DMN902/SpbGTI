@@ -14,7 +14,7 @@ ___________
 
 Контакты: 
 
-[**Экзаменационные вопросы**]()
+[**Экзаменационные вопросы**](https://github.com/DayMan902/SpbGTI/blob/main/File/Programming/Экзаменационные_вопросы.pdf)
 ___________
 ### Курсовой проект
 [Типовые задания](https://github.com/DayMan902/SpbGTI/blob/main/File/Programming/Coursework/КП_Типовые_задания.pdf)
@@ -36,19 +36,4 @@ ___________
 [Курсовой проект "Константа скорости"](https://github.com/DayMan902/SpbGTI/blob/main/File/Programming/Coursework/КП_Константа_скорости.pdf)
 ___________
 ### Лабы
-[Контрольные работы](https://github.com/DayMan902/SpbGTI/blob/main/File/Programming/Labs/Информационные_технологии_и_программирование_весна_2022.pdf)
-
-### Лекции
-
-[Лекция 1]()
-
-[Лекция 2]()
-
-[Лекция 3]()
-
-[Лекция 4]()
-
-[Лекция 5]()
-
-[Лекция 6]()
-
+[Контрольные работы](https://github.com/DayMan902/SpbGTI/blob/main/File/Programming/Labs/Информационные_технологии_и_программирование_весна_2023.pdf)
