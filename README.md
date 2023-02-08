@@ -1,4 +1,4 @@
-## [Расписание]()
+## [Расписание](https://smart-timetable.app/share.html?code=5X3GSNL6)
 
 ## Учебные дисциплины:
 
