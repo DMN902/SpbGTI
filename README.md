@@ -8,6 +8,8 @@
 
 • **(Экз)** [Программирование](https://github.com/DMN902/SpbGTI/blob/main/Subjects/Programming.md)
 
-• **(Зач)** [Инженерная графика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/EngineeringGraphics.md)
-
 • **(Экз)** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
+
+• **(Экз)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Subjects/Math.md)
+
+• **(Зач)** [Инженерная графика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/EngineeringGraphics.md)
