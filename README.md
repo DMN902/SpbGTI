@@ -1,4 +1,10 @@
-## [Расписание](https://smart-timetable.app/share.html?code=5X3GSNL6)
+## Расписание:
+
+[Сайт](https://smart-timetable.app/share.html?code=5X3GSNL6)
+
+[Приложение](https://smart-timetable.app/download). Код: 858GD3W3
+
+[Оригинал]()
 
 ## Учебные дисциплины:
 
