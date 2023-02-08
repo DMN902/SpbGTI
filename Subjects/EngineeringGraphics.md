@@ -7,4 +7,4 @@ ___________
 Хайдаров Геннадий Гасимович
  
 _________
-[Варианты задач](../Files/Documents/GroupList_sem_2.md)
+[Варианты задач](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/EngVar.md)
