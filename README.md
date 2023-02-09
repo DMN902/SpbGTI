@@ -10,6 +10,8 @@
 
 • **(Экз)** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
 
+• **(Экз)** [История](https://github.com/DMN902/SpbGTI/blob/main/Subjects/History.md)
+
 • **(Зач)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Subjects/Math.md)
 
 • **(Зач)** [Инженерная графика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/EngineeringGraphics.md)
