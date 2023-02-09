@@ -11,3 +11,5 @@
 ## Практика
 
 [Задачник](https://github.com/DMN902/SpbGTI/blob/main/File/Math/berman.pdf)
+
+[1 ИДЗ](https://github.com/DMN902/SpbGTI/blob/main/File/Math/ИДЗ-1.pdf)
