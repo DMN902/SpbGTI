@@ -5,6 +5,7 @@ ___________
 **Преподаватели:**
 
 Хайдаров Геннадий Гасимович
- 
+
+Свешников Владимир Васильевич 
 _________
 [Варианты задач](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/EngVar.md)
