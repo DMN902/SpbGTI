@@ -1,4 +1,4 @@
-[1 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Variant_1_pdf.pdf)
+[1 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%201%20pdf.pdf)
 
 [2 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Variant_2_pdf.pdf)
 
@@ -33,6 +33,10 @@
 [17 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Variant_17_pdf.pdf)
 
 [18 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Variant_18_pdf.pdf)
+
+[19 Вариант]()
+
+[20 Вариант]()
 
 [21 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Variant_21_pdf.pdf)
 
