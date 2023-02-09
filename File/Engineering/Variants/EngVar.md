@@ -16,30 +16,30 @@
 
 [9 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%209%20pdf.pdf)
 
-[10 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%210%20pdf.pdf)
+[10 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2010%20pdf.pdf)
 
-[11 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%211%20pdf.pdf)
+[11 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2011%20pdf.pdf)
 
-[12 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%212%20pdf.pdf)
+[12 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2012%20pdf.pdf)
 
-[13 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%213%20pdf.pdf)
+[13 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2013%20pdf.pdf)
 
-[14 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%214%20pdf.pdf)
+[14 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2014%20pdf.pdf)
 
-[15 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%215%20pdf.pdf)
+[15 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2015%20pdf.pdf)
 
-[16 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%216%20pdf.pdf)
+[16 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2016%20pdf.pdf)
 
-[17 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%217%20pdf.pdf)
+[17 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2017%20pdf.pdf)
 
-[18 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%218%20pdf.pdf)
+[18 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2018%20pdf.pdf)
 
-[19 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%219%20pdf.pdf)
+[19 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2019%20pdf.pdf)
 
-[20 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%220%20pdf.pdf)
+[20 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2020%20pdf.pdf)
 
-[21 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%221%20pdf.pdf)
+[21 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2021%20pdf.pdf)
 
-[22 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%222%20pdf.pdf)
+[22 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2022%20pdf.pdf)
 
-[23 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%223%20pdf.pdf)
+[23 Вариант](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/Вариант%2023%20pdf.pdf)
