@@ -4,6 +4,8 @@
 
 [Приложение](https://smart-timetable.app/download) Код: 858GD3W3
 
+[Оригинал](https://github.com/DMN902/SpbGTI/blob/main/File/1%20курс%204%20ф-т.pdf)
+
 ## Учебные дисциплины:
 
 • **(Экз)** [Программирование](https://github.com/DMN902/SpbGTI/blob/main/Subjects/Programming.md)
