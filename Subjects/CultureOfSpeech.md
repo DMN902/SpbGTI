@@ -8,3 +8,5 @@
 
 ## Практика
 
+[Самопрезентация](https://github.com/DMN902/SpbGTI/blob/main/File/CultureOfSpeech/samoprezentatsia.pdf)
+
