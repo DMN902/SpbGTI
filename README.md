@@ -18,4 +18,6 @@
 
 • **(Зач)** [Инженерная графика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/EngineeringGraphics.md)
 
+• **(Зач)** [Культура речи и деловое общение](https://github.com/DMN902/SpbGTI/blob/main/Subjects/CultureOfSpeech.md)
+
 • **(Зач)** [Основы цифровой электроники](https://github.com/DMN902/SpbGTI/blob/main/Subjects/OCE.md)
