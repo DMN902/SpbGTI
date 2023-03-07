@@ -43,3 +43,7 @@ ___________
 ### Лекции
 [Лекция 1](https://github.com/DMN902/SpbGTI/blob/main/File/Programming/Lectures/Лекция%201.%20Типы%20данных%2C%20выражения%2C%20операторы%2C%20инструкции.pdf)
 
+[Лекция 2](https://github.com/DMN902/SpbGTI/blob/main/File/Programming/Lectures/Лекция%202.%20Массивы%2C%20указатели%2C%20память.pdf)
+
+[Лекция 3](https://github.com/DMN902/SpbGTI/blob/main/File/Programming/Lectures/Lektsia_4_OOP.pdf)
+
