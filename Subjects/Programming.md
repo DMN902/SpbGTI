@@ -37,6 +37,8 @@ ___________
 ___________
 ### Лабы
 [Контрольные работы](https://github.com/DayMan902/SpbGTI/blob/main/File/Programming/Labs/Информационные_технологии_и_программирование_весна_2023.pdf)
+
+[Пример модульное меню](https://github.com/DMN902/SpbGTI/blob/main/File/Programming/Labs/Модульное%20меню.rar)
 ___________
 ### Лекции
 [Лекция 1](https://github.com/DMN902/SpbGTI/blob/main/File/Programming/Lectures/Лекция%201.%20Типы%20данных%2C%20выражения%2C%20операторы%2C%20инструкции.pdf)
