@@ -14,4 +14,4 @@
 
 [1 ИДЗ](https://github.com/DMN902/SpbGTI/blob/main/File/Math/ИДЗ-1.pdf)
 
-[2 ИДЗ](https://github.com/DMN902/SpbGTI/blob/main/File/Math/Image%20to%20PDF%2020230430%2023.19.50.pdf)
+[3 ИДЗ](https://github.com/DMN902/SpbGTI/blob/main/File/Math/Image%20to%20PDF%2020230430%2023.19.50.pdf)
