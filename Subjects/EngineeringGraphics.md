@@ -22,6 +22,8 @@ _________
 _________
 ## Практика
 
+[методичка по сантеху](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Vypolnenie_rabochih_chertezhey_detaley_i_sborochnyh_chertezhey_uzlov_truboprovodnoy_armatury_2010.pdf)
+
 [Варианты задач](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Variants/EngVar.md)
 
 [Решение типовых задач по начертательной геометрии часть 1](https://github.com/DMN902/SpbGTI/blob/main/File/Engineering/Lectures/1_2016.pdf)
