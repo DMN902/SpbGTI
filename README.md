@@ -2,6 +2,8 @@
 
 [Расписание](https://github.com/DMN902/SpbGTI/blob/main/File/2%20курс%204%20ф-т.jpg)
 
+[Сайт](https://smart-timetable.app/share.html?code=YW11Y833)
+
 ## Учебные дисциплины:
 
 • **(Зач)** [Дискретная математика]
