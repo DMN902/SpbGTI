@@ -1,6 +1,6 @@
 ## Расписание:
 
-[Расписание](https://github.com/DMN902/SpbGTI/blob/main/File/2%20курс%204%20ф-т.pdf)
+[Расписание](https://github.com/DMN902/SpbGTI/blob/main/File/2%20курс%204%20ф-т.jpg)
 
 ## Учебные дисциплины:
 
