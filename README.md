@@ -12,7 +12,7 @@
 
 • **()** [Вычислительные системы]
 
-• **(Экз)** [Математический анализ]
+• **(Экз)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Предметы/Math.md)
 
 • **()** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
 
