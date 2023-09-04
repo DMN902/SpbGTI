@@ -12,7 +12,7 @@
 
 • **(Экз)** [Математический анализ]
 
-• **()** [Разработка програмных систем] (https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
+• **()** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
 
 • **(Экз)** [Философия]
 
