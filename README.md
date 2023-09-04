@@ -1,10 +1,6 @@
 ## Расписание:
 
-[Сайт (Устаревшая)](https://smart-timetable.app/share.html?code=5X3GSNL6)
-
-[Приложение (Устаревшая)](https://smart-timetable.app/download) Код: 858GD3W3
-
-[Оригинал (Обновленая)](https://github.com/DMN902/SpbGTI/blob/main/File/1%20курс%204%20ф-т.pdf)
+[Расписание](https://github.com/DMN902/SpbGTI/blob/main/File/2%20курс%204%20ф-т.pdf)
 
 ## Учебные дисциплины:
 
