@@ -4,19 +4,23 @@
 
 ## Учебные дисциплины:
 
-• **(Экз)** [Программирование](https://github.com/DMN902/SpbGTI/blob/main/Subjects/Programming.md)
+• **()** [Дискретная математика]
 
-• **(Экз)** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
+• **()** [ТОХТ]
 
-• **(Экз)** [История](https://github.com/DMN902/SpbGTI/blob/main/Subjects/History.md)
+• **()** [Вычислительные системы]
 
-• **(Зач)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Предметы/Math.md)
+• **(Экз)** [Математический анализ]
 
-• **(Зач)** [Инженерная графика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/EngineeringGraphics.md)
+• **()** [Разработка програмных систем]
 
-• **(Зач)** [Культура речи и деловое общение](https://github.com/DMN902/SpbGTI/blob/main/Subjects/CultureOfSpeech.md)
+• **()** [Философия]
 
-• **(Зач)** [Основы цифровой электроники](https://github.com/DMN902/SpbGTI/blob/main/Subjects/OCE.md)
+• **()** [Базы данных]
+
+• **()** [Физика]
+
+• **()** [Иностранный язык]
 
 **************
 
