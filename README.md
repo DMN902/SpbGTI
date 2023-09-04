@@ -20,7 +20,7 @@
 
 • **()** [Базы данных]
 
-• **()** [Физика]
+• **()** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
 
 • **()** [Иностранный язык]
 
