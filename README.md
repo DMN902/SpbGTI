@@ -6,21 +6,21 @@
 
 ## Учебные дисциплины:
 
-• **(Зач)** [Дискретная математика]
-
-• **(Зач)** [ТОХТ](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/OHT.md)
-
 • **(Экз)** [Вычислительные системы]
 
 • **(Экз)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Предметы/Math.md)
 
-• **(Зач)** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
-
-• **(Экз)** [Философия]
+• **(Экз)** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
 
 • **(Экз)** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
 
-• **(Экз)** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
+• **(Экз)** [Философия]
+
+• **(Зач)** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
+
+• **(Зач)** [ТОХТ](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/OHT.md)
+
+• **(Зач)** [Дискретная математика]
 
 • **(Зач)** [Иностранный язык]
 
