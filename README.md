@@ -10,19 +10,19 @@
 
 • **(Зач)** [ТОХТ](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/OHT.md)
 
-• **()** [Вычислительные системы]
+• **(Экз)** [Вычислительные системы]
 
 • **(Экз)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Предметы/Math.md)
 
-• **()** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
+• **(Зач)** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
 
 • **(Экз)** [Философия]
 
-• **()** [Базы данных]
+• **(Экз)** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
 
 • **(Экз)** [Физика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/physics.md)
 
-• **()** [Иностранный язык]
+• **(Зач)** [Иностранный язык]
 
 **************
 
