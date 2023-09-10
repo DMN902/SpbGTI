@@ -6,7 +6,7 @@
 
 ## Учебные дисциплины:
 
-• **(Экз)** [Вычислительные системы]
+• **(Экз)** [Вычислительные системы](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
 
 • **(Экз)** [Математический анализ](https://github.com/DMN902/SpbGTI/blob/main/Предметы/Math.md)
 
