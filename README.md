@@ -14,7 +14,7 @@
 
 • **(Экз)** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
 
-• **(Экз)** [Философия]
+• **(Экз)** [Философия](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Philosophy.md)
 
 • **(Зач)** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
 
