@@ -20,7 +20,7 @@
 
 • **(Зач)** [ТОХТ](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/OHT.md)
 
-• **(Зач)** [Дискретная математика]
+• **(Зач)** [Дискретная математика](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/DMath.md)
 
 • **(Зач)** [Иностранный язык](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md)
 
