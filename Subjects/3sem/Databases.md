@@ -12,3 +12,5 @@ _________
 ## Практика
 
 [Лаба 1](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/Databases/Rabota_1.pdf)
+
+[Лабы 2-6](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/Databases/Lab_2-6_2023.pdf)
