@@ -7,13 +7,12 @@
 Макарук Роман Валерьевич
 
 # 3 семестр
+[1.МикроЭВМ](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/МикроЭВМ/МикроЭВМ.pdf)
 
-[Консоль](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/Консоль/Консоль.pdf)
+[2.Консоль](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/Консоль/Консоль.pdf)
 
-[МикроЭВМ](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/МикроЭВМ/МикроЭВМ.pdf)
+[3.СПО_Монитор](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/СПОМонитор/СПО_монитор.pdf)
 
-[СПО_Монитор](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/СПОМонитор/СПО_монитор.pdf)
+[4.Таймер](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/Таймер/Таймер.pdf)
 
 [Сис_ком](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/Сис-ком/Сис_ком.pdf)
-
-[Таймер](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/Таймер/Таймер.pdf)
