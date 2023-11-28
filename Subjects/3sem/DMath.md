@@ -18,6 +18,6 @@
 
 [Пример отчета](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/ЗаданиеГрафы.DOC)
 
-[Лаба3 булева алгебра](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/Булева%20алгебра.pdf)
+[Лаба3 Булева алгебра](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/Булева%20алгебра.pdf)
 
 [Лаба4 Карты карно](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/Карты%20Карно.pdf)
