@@ -17,4 +17,4 @@ _________
 
 [Лаба 7](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/Databases/Работа%207.pdf)
 
-[Лаба 7](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/Databases/Работа%208.pdf)
+[Лаба 8](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/Databases/Работа%208.pdf)
