@@ -18,6 +18,18 @@
 
 [Пример отчета](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/ЗаданиеГрафы.DOC)
 
+
+
 [Лаба3 Булева алгебра](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/Булева%20алгебра.pdf)
 
 [Лаба4 Карты карно](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/Карты%20Карно.pdf)
+
+
+
+[Лаба5](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/5Lab/Задание.pdf)
+
+[Алгебра отношений](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/5Lab/Алгебра%20отношений.pdf)
+
+[Пример определения свойств](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/5Lab/Пример%20определения%20свойств.pdf)
+
+[Свойства отношений](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/DMath/5Lab/Свойства%20отношений.pdf)
