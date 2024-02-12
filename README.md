@@ -26,4 +26,4 @@
 
 **************
 
-[2-й семестр](https://github.com/DMN902/SpbGTI/blob/main/Subjects/archive.md)
+[Архив](https://github.com/DMN902/SpbGTI/blob/main/Subjects/archive.md)
