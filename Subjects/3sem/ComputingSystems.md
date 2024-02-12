@@ -6,6 +6,8 @@
 
 Макарук Роман Валерьевич
 
+# 4 семестр
+
 # 3 семестр
 [1.МикроЭВМ](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/МикроЭВМ/МикроЭВМ.pdf)
 
