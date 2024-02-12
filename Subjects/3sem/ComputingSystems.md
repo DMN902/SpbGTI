@@ -8,6 +8,8 @@
 
 # 4 семестр
 
+[Лабы](https://github.com/DMN902/SpbGTI/blob/main/File/3sem/ComputingSystems/Prakticheskie_raboty_4_semestr.pdf)
+
 ****************************************
 
 # 3 семестр
