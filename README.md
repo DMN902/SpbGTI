@@ -6,13 +6,15 @@
 
 ## Учебные дисциплины:
 
-• **(Экз)** [Вычислительные системы](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
+• **()** [Вычислительные системы](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
 
-• **(Экз)** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
+• **()** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
 
-• **(Зач)** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
+• **()** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
 
-• **(Зач)** [Иностранный язык](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md)
+• **()** [Иностранный язык](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md)
+
+• **()** [ВычМат]([https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md](https://github.com/DMN902/SpbGTI/blob/main/Subjects/4sem/ComputationalMathematics.md))
 
 **************
 
