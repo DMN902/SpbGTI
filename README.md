@@ -14,7 +14,7 @@
 
 • **()** [Иностранный язык](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md)
 
-• **()** [ВычМат]([https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md](https://github.com/DMN902/SpbGTI/blob/main/Subjects/4sem/ComputationalMathematics.md))
+• **()** [ВычМат](https://github.com/DMN902/SpbGTI/blob/main/Subjects/4sem/ComputationalMathematics.md)
 
 **************
 
