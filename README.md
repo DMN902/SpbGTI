@@ -6,7 +6,7 @@
 
 ## Учебные дисциплины:
 
-• **()** [Вычислительные системы](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
+• **()** [Сети](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
 
 • **()** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
 
