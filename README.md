@@ -1,3 +1,5 @@
+# 5 семестр
+
 ## Расписание:
 
 [Оригинал](https://github.com/DMN902/SpbGTI/blob/main/File/2%20курс%204%20ф-т.jpg)
@@ -7,14 +9,6 @@
 ## Учебные дисциплины:
 
 • **()** [Сети](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
-
-• **()** [Базы данных](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/Databases.md)
-
-• **()** [Разработка програмных систем](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/RPS.md)
-
-• **()** [Иностранный язык](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/English.md)
-
-• **()** [ВычМат](https://github.com/DMN902/SpbGTI/blob/main/Subjects/4sem/ComputationalMathematics.md)
 
 **************
 
