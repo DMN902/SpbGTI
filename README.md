@@ -8,7 +8,7 @@
 
 ## Учебные дисциплины:
 
-• **()** [Сети](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
+• **(КП/ЭКЗ?)** [Методы оптимизации](https://github.com/DMN902/SpbGTI/blob/main/Subjects/6sem/OptimizationMethods.md)
 
 **************
 
