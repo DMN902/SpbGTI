@@ -76,4 +76,9 @@
 
 • **()** [ВычМат](https://github.com/DMN902/SpbGTI/blob/main/Subjects/4sem/ComputationalMathematics.md)
 
+********************************************
+
+## 5 Семестр
+
+[Сети](https://github.com/DMN902/SpbGTI/blob/main/Subjects/3sem/ComputingSystems.md)
 
