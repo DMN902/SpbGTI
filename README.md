@@ -4,7 +4,9 @@
 
 [Оригинал]()
 
-[Сайт]()
+[Сайт](https://smart-timetable.app/share.html?code=V853DY37)
+
+Код: V853DY37
 
 ## Учебные дисциплины:
 
